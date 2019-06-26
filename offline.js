@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1561544750,
+	"version": 1561567829,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,15 @@
 		"peerlaser-sheet0.png",
 		"peer-sheet0.png",
 		"aimspot-sheet0.png",
+		"spider-sheet0.png",
+		"spider-sheet1.png",
+		"rat-sheet0.png",
+		"rat-sheet1.png",
+		"beetle-sheet0.png",
+		"beetle-sheet1.png",
+		"eye-sheet0.png",
+		"eye-sheet1.png",
+		"sprite7-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
