@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1561476983,
+	"version": 1561544750,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,6 +36,7 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"История.json",
 		"c2mp-net.js",
 		"c2mp-peer.js",
 		"c2mp.js",
